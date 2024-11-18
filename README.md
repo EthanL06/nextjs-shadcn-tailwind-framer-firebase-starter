@@ -1,7 +1,3 @@
-Here’s the updated README reflecting the use of the **App Router** and placement of `globals.css` within the `app` directory:  
-
----
-
 # Next.js 15 + ShadCN UI + Tailwind CSS + Framer Motion + Firebase Template  
 
 A modern, opinionated starter template featuring a powerful tech stack to kickstart your Next.js projects.
